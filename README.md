@@ -56,3 +56,13 @@ This tool analyzes test cases from Excel and identifies duplicate or similar ent
 - Reduces redundancy in test suites
 - Improves execution efficiency
 - Helps QA teams maintain cleaner test repositories
+
+## ▶️ How to Run (Python Version)
+
+1. Install dependencies:
+pip install pandas openpyxl
+
+2. Run the script:
+python dedup_tool.py
+
+👉 This project is being extended into an AI-powered tool to detect semantic similarity between test cases using NLP models.
